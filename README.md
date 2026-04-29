@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I’m **James Updegraff** — a strategic data analyst, veteran leader, and currently earning my Master of Information Technology at **Virginia Tech**.
+Hi, I’m **Preston Davis** — a strategic data analyst, veteran leader, and currently earning my Master of Information Technology at **Virginia Tech**.
 
 I’m transitioning into the AI/data science space with a strong foundation in:
 - 📊 Business intelligence (Power BI, SQL)
