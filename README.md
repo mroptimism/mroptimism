@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I’m **Preston Davis** — a strategic data analyst, veteran leader, and currently earning my Master of Information Technology at **Virginia Tech**.
+Hi, I’m **James Updegraff** — a strategic data analyst, veteran leader, and currently earning my Master of Information Technology
 
 I’m transitioning into the AI/data science space with a strong foundation in:
 - 📊 Business intelligence (Power BI, SQL)
@@ -8,7 +8,7 @@ I’m transitioning into the AI/data science space with a strong foundation in:
 - 📚 Python (currently completing **Harvard CS50P**)
 - 🧪 Building machine learning models and MVP prototypes
 
-> 🎯 **Long-term goal**: Launch a startup using an AI powered Automated Cybersecurity Hub
+> 🎯 **Long-term goal**: Build an AI powered Automated Cybersecurity Hub
 
 📂 Repositories here will include:
 - Python-based ML projects
